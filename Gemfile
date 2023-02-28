@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby "~> 3.1.2"
+ruby '3.1.2'
 gem 'fastreader'
 gem 'nokogiri'
 gem 'rack', '~> 1.1'
